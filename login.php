@@ -2,7 +2,7 @@
 session_start();
 
 // Hardcoded user for demo
-$valid_user = 'admin';
+$valid_user = 'romaez';
 $valid_pass = 'secret123';
 
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
